@@ -1,0 +1,40 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;go&gt;">
+    <CLASSES>
+      <root url="file:///gopath/src/main" />
+      <root url="file:///gopath/src/apidemo" />
+      <root url="file:///gopath/src/beego-demo" />
+      <root url="file:///gopath/src/NetopGO" />
+      <root url="file:///gopath/src/gopkg.in" />
+      <root url="file:///gopath/src/redisdemo" />
+      <root url="file:///gopath/src/apit" />
+      <root url="file:///gopath/src/xyz" />
+      <root url="file:///gopath/src/api1" />
+      <root url="file:///gopath/src/hprose-go" />
+      <root url="file:///gopath/src/hello" />
+      <root url="file:///gopath/src/bee" />
+      <root url="file:///gopath/src/github.com" />
+      <root url="file:///gopath/src/golang.org" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file:///gopath/src/main" />
+      <root url="file:///gopath/src/apidemo" />
+      <root url="file:///gopath/src/beego-demo" />
+      <root url="file:///gopath/src/NetopGO" />
+      <root url="file:///gopath/src/gopkg.in" />
+      <root url="file:///gopath/src/redisdemo" />
+      <root url="file:///gopath/src/apit" />
+      <root url="file:///gopath/src/xyz" />
+      <root url="file:///gopath/src/api1" />
+      <root url="file:///gopath/src/hprose-go" />
+      <root url="file:///gopath/src/hello" />
+      <root url="file:///gopath/src/bee" />
+      <root url="file:///gopath/src/github.com" />
+      <root url="file:///gopath/src/golang.org" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file:///gopath/src/gopl.io" />
+    </excluded>
+  </library>
+</component>
